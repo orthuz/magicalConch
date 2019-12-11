@@ -1,0 +1,26 @@
+.soraTitleDiv{
+  width: 820px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.soraPictureDiv{
+  width: 820px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.soraPicture{
+  width: 500px;
+}
+
+.soraInputDiv{
+  width: 820px;
+  margin: 0 auto;
+  text-align:center;
+}
+
+.submitButton{
+  height: 30px;
+  width: 80px;
+}
