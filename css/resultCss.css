@@ -1,0 +1,13 @@
+.resultPictureDiv{
+    width: 820px;
+  margin: 0 auto;
+  text-align:center;
+}
+
+#resultPicture{
+  width: 500px;
+}
+
+#resultBtnDiv{
+  text-align: center;
+}
