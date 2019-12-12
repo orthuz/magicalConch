@@ -10,5 +10,5 @@ function result(){
   }else if(result == 2){
     src="./src/soraYes";
   }
-  return result;
+  return src;
 }
